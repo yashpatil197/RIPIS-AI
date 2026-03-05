@@ -1,0 +1,6 @@
+__turbopack_load_page_chunks__("/ai-interview", [
+  "static/chunks/da0ff8adaa6cce90.js",
+  "static/chunks/a73fb6578faa679c.js",
+  "static/chunks/df151b97e4e9a9f6.js",
+  "static/chunks/turbopack-a3ce2133efdc4461.js"
+])

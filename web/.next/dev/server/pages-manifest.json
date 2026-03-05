@@ -1,0 +1,11 @@
+{
+  "/": "pages/index.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/ai-interview": "pages/ai-interview.js",
+  "/api/ai-interview/answer": "pages/api/ai-interview/answer.js",
+  "/api/ai-interview/start": "pages/api/ai-interview/start.js",
+  "/coding": "pages/coding.js",
+  "/hr": "pages/hr.js",
+  "/mock": "pages/mock.js"
+}

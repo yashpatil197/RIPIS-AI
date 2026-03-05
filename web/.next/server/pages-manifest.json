@@ -1,0 +1,16 @@
+{
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/ai-interview": "pages/ai-interview.html",
+  "/api/ai-interview/analyze": "pages/api/ai-interview/analyze.js",
+  "/api/ai-interview/answer": "pages/api/ai-interview/answer.js",
+  "/api/ai-interview/start": "pages/api/ai-interview/start.js",
+  "/api/ai-interview/transcribe": "pages/api/ai-interview/transcribe.js",
+  "/api/hello": "pages/api/hello.js",
+  "/coding": "pages/coding.html",
+  "/hr": "pages/hr.html",
+  "/mock": "pages/mock.html",
+  "/404": "pages/404.html"
+}
