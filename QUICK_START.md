@@ -8,8 +8,24 @@ cd web
 npm install
 npm run dev
 ```
+```
+### 1️⃣ (Optional) Set Up Git
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+# (Optional) Add remote and push
+# git remote add origin https://github.com/yashpatil197/ripis-ai.git
+# git push -u origin main
+```
 
-### 2️⃣ Open in Browser
+### 1️⃣ (Optional) Push to GitHub
+```bash
+git remote add origin https://github.com/yashpatil197/ripis-ai.git
+git push -u origin main
+```
+
+### 2️⃣ Open in Browser'
 ```
 http://localhost:3000
 ```
